@@ -1,0 +1,21 @@
+[
+  //SublimeRailsNav
+  { "keys": ["alt+shift+m"], "command": "list_rails_models" },
+  { "keys": ["alt+shift+c"], "command": "list_rails_controllers" },
+  { "keys": ["alt+shift+v"], "command": "list_rails_views" },
+  { "keys": ["alt+shift+h"], "command": "list_rails_helpers" },
+  { "keys": ["alt+shift+f"], "command": "list_rails_fixtures" },
+  { "keys": ["alt+shift+t"], "command": "list_rails_tests" },
+  { "keys": ["alt+shift+j"], "command": "list_rails_javascripts" },
+  { "keys": ["alt+shift+s"], "command": "list_rails_stylesheets" },
+
+  //SublimeERB
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+
+  // Operation Tab Move
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+  { "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+  { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" }
+]
+

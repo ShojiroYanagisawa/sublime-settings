@@ -1,0 +1,61 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Better Completion",
+		"Bootstrap 3 Snippets",
+		"Capybara Snippets",
+		"DashDoc",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"Git Config",
+		"GitGutter",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"I18n Rails",
+		"Inc-Dec-Value",
+		"jQuery",
+		"Markdown Preview",
+		"Package Control",
+		"Rails Migrations List",
+		"rails_tutorial_snippets",
+		"RailsCasts Colour Scheme",
+		"RailsGoToSpec",
+		"Restructured Text (RST) Snippets",
+		"RSpec",
+		"rspec-snippets",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"RubyTest",
+		"SASS Snippets",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"SublimeRailsNav",
+		"Theme - Aprosopo",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
+	],
+	"repositories":
+	[
+		"https://github.com/noklesta/SublimeRailsNav/tree/ST3",
+		"https://github.com/wallysalami/QuickLook",
+		"https://github.com/mhartl/rails_tutorial_snippets"
+	]
+}
+

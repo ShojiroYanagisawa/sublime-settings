@@ -1,0 +1,26 @@
+{
+	"auto_complete_selector": "",
+	"auto_complete_size_limit": 4194304,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/RailsCastsColorScheme (SL).tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 9.5,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_subsequent_lines": "true",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": false,
+	"suto_complete": true,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 120
+}
+
